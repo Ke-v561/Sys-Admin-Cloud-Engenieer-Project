@@ -19,20 +19,20 @@
 **Deliverable:** a troubleshooting worksheet with command, purpose, sample output and interpretation.
 
 ## Phase 3 — Virtualization basics
-- [] Learn what a hypervisor does and the difference between Type 1 and Type 2 virtualization.
-- [] Check whether your PC supports virtualization and whether it is enabled in firmware.
-- [] Choose a beginner route: a desktop hypervisor on a capable PC, or a cloud sandbox/free learning environment if local resources are limited.
-- [] Create one disposable Linux or Windows evaluation VM only after checking system requirements and licensing.
-- [] Learn snapshots/checkpoints, virtual CPU/RAM/disk allocation, virtual networking and safe shutdown.
-- [] Take a snapshot, make a harmless change, revert, and document what happened.
+- [x] Learn what a hypervisor does and the difference between Type 1 and Type 2 virtualization.
+- [x] Check whether your PC supports virtualization and whether it is enabled in firmware.
+- [x] Choose a beginner route: a desktop hypervisor on a capable PC, or a cloud sandbox/free learning environment if local resources are limited.
+- [x] Create one disposable Linux or Windows evaluation VM only after checking system requirements and licensing.
+- [x] Learn snapshots/checkpoints, virtual CPU/RAM/disk allocation, virtual networking and safe shutdown.
+- [x] Take a snapshot, make a harmless change, revert, and document what happened.
 
 **Do not** install Proxmox or buy hardware as a prerequisite. It can be a later upgrade, not a starting requirement.
 
 ## Phase 4 — Safety and documentation
-- [] Use fictional test data and non-production systems.
-- [] Learn why backups, updates, least privilege and strong unique passwords matter.
-- [] Never publish credentials, license keys, API tokens or screenshots containing personal information.
-- [] Write a one-page lab build guide that another beginner could follow.
+- [x] Use fictional test data and non-production systems.
+- [x] Learn why backups, updates, least privilege and strong unique passwords matter.
+- [x] Never publish credentials, license keys, API tokens or screenshots containing personal information.
+- [x] Write a one-page lab build guide that another beginner could follow.
 
 ## Finish line
 You can describe your computer's basic specs, explain basic network settings, create and revert a VM (or document an approved alternative), and explain your safety precautions. No certification required for this path.
