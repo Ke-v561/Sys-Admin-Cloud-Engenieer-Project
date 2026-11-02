@@ -4,7 +4,7 @@ Welcome! This repository starts from **zero cloud and zero home-lab experience**
 
 ## How to use this repository
 
-Follow the paths in order. Each stage uses the pattern **learn → practice → build → test → document → certification**. Certifications are the finish line of a learning path, not a separate bucket.
+Follow the paths in order. Each stage uses the pattern **learn → practice → build → test → document → certification**. Certifications are the finish line of a learning path.
 
 ## Learning paths
 
