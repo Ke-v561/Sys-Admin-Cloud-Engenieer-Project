@@ -1,0 +1,12 @@
+# AZ-104 Readiness
+- [ ] Current study guide and skill weights reviewed.
+- [ ] Identity and governance covered.
+- [ ] Storage covered.
+- [ ] Compute covered.
+- [ ] Virtual networking covered.
+- [ ] Monitoring and maintenance covered.
+- [ ] Final project deployed from documented steps.
+- [ ] PowerShell/Azure CLI used.
+- [ ] Cost estimate and cleanup evidence included.
+- [ ] Practice assessment completed and weak areas remediated.
+- [ ] Exam price/version reconfirmed; exam passed.

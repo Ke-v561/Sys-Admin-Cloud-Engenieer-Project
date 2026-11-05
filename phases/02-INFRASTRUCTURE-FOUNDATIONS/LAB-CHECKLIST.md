@@ -1,0 +1,11 @@
+# Infrastructure Foundations Checklist
+- [ ] Explain IP, subnet, gateway, DNS, DHCP, NAT, routing, VPN, and ports.
+- [ ] Complete subnetting exercises.
+- [ ] Create AD users, groups, OUs, and delegated permissions.
+- [ ] Create and troubleshoot a GPO.
+- [ ] Explain DNS resolution and domain authentication.
+- [ ] Diagnose failed domain join, DNS issue, time skew, and secure channel.
+- [ ] Review Windows event logs.
+- [ ] Use PowerShell pipelines, filtering, variables, and loops.
+- [ ] Write three documented administration scripts.
+- [ ] Publish sanitized infrastructure runbook.
