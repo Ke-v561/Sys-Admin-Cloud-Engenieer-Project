@@ -1,2 +1,0 @@
-# License and attribution
-This repository contains original study plans, lab instructions, checklists, and templates. Certification names, exam codes, and linked vendor materials belong to their respective organizations. This repository is not endorsed by Microsoft, CompTIA, HashiCorp, or AWS. Do not rehost copyrighted course material or exam dumps. Choose an open-source license for original content if you intend to publish/reuse it.
