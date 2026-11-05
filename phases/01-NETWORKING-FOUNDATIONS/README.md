@@ -7,7 +7,9 @@ Understand the network services that make domains and cloud networks work: IPv4,
 Build a working isolated subnet with documented addressing, DHCP/DNS behavior, and troubleshooting evidence.
 
 ## Certification
-**None.** No certification required.
+CompTIA Network+	Recommended
+Cisco CCNA	Alternative to Network+
+Cisco CCST Networking	Entry-level alternative
 
 ## Estimated duration
 **3–5 weeks** at 6–10 hours per week. Adjust based on demonstrated competence, not calendar pressure.
